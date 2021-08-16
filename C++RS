@@ -1,0 +1,18 @@
+#include <iostream> // terjemahanku: mengcopy yang ada di iostream dan memasukan nya ke sini
+using namespace std; // menggunakan nama/fungsi std, di mana std berasal dari iostream
+
+// ini adalah comment satu garis
+
+/* ini adalah 
+multi comment
+line */
+
+int main(){ //main disini artinya adalah tempat kita memulai program
+    cout << "ini adalah tulisan pertama," << " ini adalah tulisan kedua, dalam satu paragraf." << endl;
+
+    /* - cout artinya console input, yang dimana akan memprint perintah.
+    - << artinya adalah "memasukan "itu" ke dalam "ini" "
+    - endl adalah mengakhiri kalimat
+    - \n artinya membuat garis baru
+    return 0;*/
+}
