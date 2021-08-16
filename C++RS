@@ -1,3 +1,5 @@
+//==========PROGRAM C++, PRINT HELLO WORLD, COMMENT==========
+
 #include <iostream> // terjemahanku: mengcopy yang ada di iostream dan memasukan nya ke sini
 using namespace std; // menggunakan nama/fungsi std, di mana std berasal dari iostream
 
@@ -16,3 +18,16 @@ int main(){ //main disini artinya adalah tempat kita memulai program
     - \n artinya membuat garis baru
     return 0;*/
 }
+
+//==========VARIABEL==========
+
+#include <iostream>
+using namespace std;
+
+int main (){
+    int a = 1; // terjemahan: nilai a adalah 1. int adalah tipe data
+    cout << a; // mengeluarkan nilai a
+}
+
+//==========
+ 
